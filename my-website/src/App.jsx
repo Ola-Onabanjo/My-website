@@ -7,9 +7,6 @@ import Contact from './components/Contact';
 import { motion } from 'framer-motion';
 import './Styles.css';
 
-
-import './App.css'
-
 function App() {
   return (
     <div className='app'>
