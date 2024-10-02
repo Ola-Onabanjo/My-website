@@ -25,7 +25,7 @@ export default function About(){
             animate={{x: 0}}
             transition={{
               duration: '4',
-              delay: '0.5'
+              delay: '1'
           }}
           className='about-paragraph'>Hi, I’m Olawale, a passionate frontend developer with a keen eye for design and a drive for creating seamless user experiences. With a background in web technologies and a strong focus on building responsive, accessible, and interactive websites, I aim to bridge the gap between design and functionality. My goal is to deliver digital solutions that not only look great but perform efficiently across all devices.
             </motion.p>
