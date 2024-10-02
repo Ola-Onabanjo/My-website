@@ -8,7 +8,7 @@ export default function About(){
              animate={{x:0}}
              transition={{
                  duration: '2.5',
-                 delay: '0.5'
+                 delay: '1'
              }}
             className='about'>About Lexzy</motion.h1>
             <div className='img-about'>
@@ -17,7 +17,7 @@ export default function About(){
             animate={{x: 0}}
             transition={{
               duration: '3',
-              delay: '0.5'
+              delay: '1'
           }}
              className='img1' src={ Img } alt="Ola" />
             <motion.p 
