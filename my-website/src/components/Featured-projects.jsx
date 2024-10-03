@@ -35,7 +35,7 @@ export default function Featured(){
                 <li  className="list-item">Technologies: HTML, CSS, JavaScript, React</li>
             </ul>
 
-            <p className="heading">The above stated are few projects i created on my own amongst many others.</p>
+            <p className="heading"> <b>The above stated are few projects I created on my own amongst many others.</b> </p>
         </motion.div>
     )
 }
